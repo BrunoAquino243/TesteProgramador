@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/18 19:36:24.000.264,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:29:01.940,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:42:27.155,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uTesteProgramadorDelphi.pas=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:42:27.156,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uTesteProgramadorDelphi.dfm=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/02/19 18:44:24.265,C:\Users\Bruno\Documents\GitHub\TesteProgramador\pTesteProgramadorDelphi.dproj=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/02/19 18:45:17.200,=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:45:24.044,=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit2.pas</Transaction>
+    <Transaction>2025/02/19 18:45:29.414,=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit3.pas</Transaction>
+    <Transaction>2025/02/19 18:45:35.222,=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit4.pas</Transaction>
+    <Transaction>2025/02/19 18:45:41.431,=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit5.pas</Transaction>
+    <Transaction>2025/02/19 18:45:47.102,=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit6.pas</Transaction>
+    <Transaction>2025/02/19 18:50:57.580,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio1.dfm=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit1.dfm</Transaction>
+    <Transaction>2025/02/19 18:50:57.580,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio1.pas=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:51:15.312,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio2.dfm=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit2.dfm</Transaction>
+    <Transaction>2025/02/19 18:51:15.312,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio2.pas=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit2.pas</Transaction>
+    <Transaction>2025/02/19 18:51:30.679,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio3.pas=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit3.pas</Transaction>
+    <Transaction>2025/02/19 18:51:30.679,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio3.dfm=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit3.dfm</Transaction>
+    <Transaction>2025/02/19 18:51:45.334,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio4.pas=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit4.pas</Transaction>
+    <Transaction>2025/02/19 18:51:45.334,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio4.dfm=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit4.dfm</Transaction>
+    <Transaction>2025/02/19 18:51:57.831,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio5.dfm=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit5.dfm</Transaction>
+    <Transaction>2025/02/19 18:51:57.831,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio5.pas=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit5.pas</Transaction>
+    <Transaction>2025/02/19 18:52:08.236,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio6.pas=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit6.pas</Transaction>
+    <Transaction>2025/02/19 18:52:08.236,C:\Users\Bruno\Documents\GitHub\TesteProgramador\uFrmDesafio6.dfm=C:\Users\Bruno\Documents\GitHub\TesteProgramador\Unit6.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
